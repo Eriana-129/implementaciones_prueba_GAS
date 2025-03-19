@@ -1,3 +1,8 @@
-# implementaciones_prueba_GAS
-Repositorio para el tutorial de creación de implementaciones de prueba en Google Apps Script y la visualización de las aplicaciones en dispositivos móviles
-![Banner](./tutorial_dev/Diapositiva1.JPG)
+# Creación de implementaciones de prueba en Google Apps Script y visualizar las aplicaciones en dispositivos móviles
+![Banner](./tutorial_dev/Diapositiva2.JPG)
+![Banner](./tutorial_dev/Diapositiva3.JPG)
+![Banner](./tutorial_dev/Diapositiva4.JPG)
+![Banner](./tutorial_dev/Diapositiva5.JPG)
+![Banner](./tutorial_dev/Diapositiva6.JPG)
+![Banner](./tutorial_dev/Diapositiva7.JPG)
+![Banner](./tutorial_dev/Diapositiva8.JPG)
